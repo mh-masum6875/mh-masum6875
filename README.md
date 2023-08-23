@@ -1,7 +1,7 @@
 👋 Hi, I’m @mh-masum6875: Maidul Hasan Masum;
-A passionate computer science student, enthusiastic about Web & App Development with superiority
-in public communication and leadership. Possess an unbridled passion for Artificial Intelligence with
-comprehensive knowledge of machine learning concepts and other related technologies.
+An enthusiastic computer science student, possess an unbridled passion for Artificial Intelligence with 
+comprehensive knowledge of Natural Language Processing, Computer Vision concepts and other related 
+technologies with superiority in public communication and leadership.
 
 Get me on mhmasum6875@gmail.com
 
