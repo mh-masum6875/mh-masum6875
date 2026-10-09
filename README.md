@@ -18,8 +18,8 @@ real-time inference pipelines, custom detection models, and NLP solutions that d
 
 ## 🔭 What I do
 
-- **Computer vision** — custom object detection, real-time inference pipelines
-- **Deep learning** — model design, training, optimization and deployment with PyTorch
+- **Computer vision** — custom object detection, real-time inference pipelines, lightweight YOLO models
+- **Efficient deep learning** — neural architecture search, early-exit inference and model compression for edge and IoT devices
 - **NLP** — language-understanding systems for real-world use cases
 - **Research & leadership** — published research and team leadership experience
 
@@ -30,6 +30,8 @@ real-time inference pipelines, custom detection models, and NLP solutions that d
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -37,12 +39,20 @@ real-time inference pipelines, custom detection models, and NLP solutions that d
 
 ## 🚀 Featured projects
 
-| Project | Focus |
-| --- | --- |
-| [**Adaptive-LightYolo-SSO**](https://github.com/mh-masum6875/Adaptive-LightYolo-SSO) | Lightweight YOLO-based detection research (Jupyter Notebook) |
-| [**LightYolo-SSO**](https://github.com/mh-masum6875/-LightYolo-SSO) | Lightweight YOLO-based detection experiments (Jupyter Notebook) |
-| [**BluetoothController**](https://github.com/mh-masum6875/BluetoothController) | Bluetooth device control app |
-| [**Online-School-Management-System**](https://github.com/mh-masum6875/Online-School-Management-System) | Java school management system |
+### 🧠 Research & deep learning
+
+| Project | What it does | Highlights |
+| --- | --- | --- |
+| [**WSN-YOLO** (LightYolo-SSO)](https://github.com/mh-masum6875/-LightYolo-SSO) | Ultra-lightweight YOLO for Wireless Sensor Networks, architecture found with Sperm Swarm Optimization | **78%** fewer parameters and **93.8%** smaller model than YOLOv7-tiny, with **99.57%** mAP@0.5 |
+| [**Adaptive LightYolo-SSO**](https://github.com/mh-masum6875/Adaptive-LightYolo-SSO) | Early-exit inference for energy-efficient anomaly detection on the IBRL sensor dataset | **64.7%** less compute at **99.55%** accuracy; 98.6% of samples exit at the first branch |
+
+### 📱 Software & embedded
+
+| Project | What it does | Stack |
+| --- | --- | --- |
+| [**MetaTr@cker**](https://github.com/mh-masum6875/MetaTr-cker) | Free, ad-free home-workout and body-metrics tracker | Java, Android, Firebase |
+| [**Bluetooth Robot Controller**](https://github.com/mh-masum6875/BluetoothController) | Drive an Arduino robot from your phone over Bluetooth | Flutter, Dart, Arduino |
+| [**Online School Management System**](https://github.com/mh-masum6875/Online-School-Management-System) | Student, attendance, result and notice management | Java, Spring MVC, MySQL |
 
 ## 📊 GitHub stats
 
