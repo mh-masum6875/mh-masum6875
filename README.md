@@ -8,6 +8,7 @@ Computer Science graduate building production-grade computer vision and deep lea
 real-time inference pipelines, custom detection models, and NLP solutions that drive measurable business impact.
 
 [![Email](https://img.shields.io/badge/Email-mhmasum6875%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mhmasum6875@gmail.com)
+[![Website](https://img.shields.io/badge/Portfolio-mh--masum6875.github.io-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mh-masum6875.github.io/mh-masum6875/)
 [![GitHub](https://img.shields.io/badge/GitHub-mh--masum6875-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mh-masum6875)
 
 ![Profile views](https://komarev.com/ghpvc/?username=mh-masum6875&label=Profile+views&color=0e75b6&style=flat)
