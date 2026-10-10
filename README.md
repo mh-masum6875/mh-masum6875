@@ -2,13 +2,12 @@
 
 # Hi, I'm Maidul Hasan Masum 👋
 
-### AI Engineer · Computer Vision · Deep Learning
+### AI Algorithm Engineer · MSc Researcher · Computer Vision
 
-Computer Science graduate building production-grade computer vision and deep learning systems —
-real-time inference pipelines, custom detection models, and NLP solutions that drive measurable business impact.
+AI Algorithm Engineer at **Graymatics Singapore** deploying real-time computer vision on live camera systems, and MSc (by research) candidate at **Universiti Malaya** working on efficient deep learning for edge and wireless vision sensor networks. First-author in **IEEE Sensors Journal**.
 
-[![Email](https://img.shields.io/badge/Email-mhmasum6875%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mhmasum6875@gmail.com)
 [![Website](https://img.shields.io/badge/Portfolio-mh--masum6875.github.io-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mh-masum6875.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mhmasum6875-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mhmasum6875)
 [![GitHub](https://img.shields.io/badge/GitHub-mh--masum6875-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mh-masum6875)
 
 ![Profile views](https://komarev.com/ghpvc/?username=mh-masum6875&label=Profile+views&color=0e75b6&style=flat)
@@ -19,10 +18,15 @@ real-time inference pipelines, custom detection models, and NLP solutions that d
 
 ## 🔭 What I do
 
-- **Computer vision** — custom object detection, real-time inference pipelines, lightweight YOLO models
+- **Production computer vision** — detection, multi-object tracking (SORT / ByteTrack) and behaviour analytics for waste classification, traffic, retail and PPE/safety monitoring
 - **Efficient deep learning** — neural architecture search, early-exit inference and model compression for edge and IoT devices
-- **NLP** — language-understanding systems for real-world use cases
-- **Research & leadership** — published research and team leadership experience
+- **Research** — published in IEEE Sensors Journal, Frontiers in Psychology and IET/Wiley; two INTRAC 2025 (Springer) papers accepted
+- **Teaching & leadership** — teaching assistant, tutor and student-society leader at UTM
+
+## 🎓 Education
+
+- **MSc Computer Science (by research)**, Universiti Malaya — expected Dec 2026
+- **BSc Computer Science (Software Engineering)**, Universiti Teknologi Malaysia — First Class Honours, CGPA 3.70 / 4.00; Dean's Award and Best Undergraduate Research Award
 
 ## 🛠️ Tech stack
 
@@ -67,4 +71,4 @@ real-time inference pipelines, custom detection models, and NLP solutions that d
 ## 🤝 Let's connect
 
 I'm open to AI / computer vision engineering roles, research collaborations and interesting projects.
-The best way to reach me is by email: **[mhmasum6875@gmail.com](mailto:mhmasum6875@gmail.com)**.
+Reach me by email at **[mhmasum6875@gmail.com](mailto:mhmasum6875@gmail.com)** or on [LinkedIn](https://www.linkedin.com/in/mhmasum6875).
