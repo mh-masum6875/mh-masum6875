@@ -14,9 +14,10 @@ I build video analytics that runs on live camera feeds at Graymatics in Singapor
 
 ## What I work on
 
-- **Production computer vision.** Detection, tracking and behaviour analysis for waste classification, traffic, retail and safety monitoring, running on more than 200 camera streams.
+- **Production computer vision.** Detection, tracking and behaviour analysis for waste classification, traffic, retail and safety monitoring, running on more than 200 camera streams for clients in Singapore and abroad.
 - **Efficient deep learning.** Architecture search, early-exit inference and compression, so models fit on small devices.
 - **Research.** Papers in IEEE Sensors Journal, Frontiers in Psychology and The Journal of Engineering, with two more accepted at INTRAC 2025.
+- **Teaching.** I teach Cambridge Lower Secondary Computing at Abedeen International School, and I tutored IELTS and Cambridge English at EF English Academy from 2023 to 2026.
 
 ## Selected projects
 
