@@ -17,7 +17,7 @@ I build computer vision systems that run on live camera feeds, and I research ho
 
 | | |
 | --- | --- |
-| **Industry** | AI Algorithm Engineer at Graymatics, Singapore, since September 2023. Production computer vision on 200+ live camera streams, with 80+ different analytics and 300+ deployments across cameras. |
+| **Industry** | AI Algorithm Engineer at Graymatics, Singapore, since September 2023. Production computer vision on 300+ live IP camera streams, with 80+ different analytics. |
 | **Research** | Fully funded Graduate Research Assistant at Universiti Malaya (MSc by research, thesis submitted). Focus: efficient detection for edge devices. |
 | **Publications** | First author of a review paper in **IEEE Sensors Journal** (2025). Four papers published, two accepted, three under review. |
 | **Recognition** | Best Undergraduate Research Award, Dean's Award, First Class Honours (CGPA 3.70 out of 4.00). |
