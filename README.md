@@ -4,7 +4,7 @@
 
 **AI engineer working on computer vision**
 
-I have been an AI engineer at Graymatics in Singapore since September 2023, building video analytics that runs on live camera feeds, and I research small, efficient detection models for sensor devices at Universiti Malaya. My review paper on anomaly detection in wireless sensor networks is published in IEEE Sensors Journal.
+I have been an AI engineer at Graymatics in Singapore since September 2023, building video analytics that runs on live camera feeds, and I am a fully funded Graduate Research Assistant at Universiti Malaya, researching small, efficient detection models for sensor devices. My review paper on anomaly detection in wireless sensor networks is published in IEEE Sensors Journal.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-mh--masum6875.github.io-0f766e?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mh-masum6875.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mhmasum6875-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mhmasum6875)
@@ -31,7 +31,7 @@ I have been an AI engineer at Graymatics in Singapore since September 2023, buil
 
 ## Education
 
-- **MSc Computer Science (by research)**, Universiti Malaya. Thesis submitted, finishing in December 2026.
+- **MSc Computer Science (by research)**, Universiti Malaya. Fully funded as a Graduate Research Assistant. Thesis submitted, finishing in December 2026.
 - **BSc Computer Science (Software Engineering)**, Universiti Teknologi Malaysia. First Class Honours, CGPA 3.70 out of 4.00, with the Dean's Award and the Best Undergraduate Research Award.
 
 ## Tools I use
