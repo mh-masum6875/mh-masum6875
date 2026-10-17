@@ -8,6 +8,7 @@ I build computer vision systems that run on live camera feeds, and I research ho
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-mh--masum6875.github.io-0f766e?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mh-masum6875.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mhmasum6875-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mhmasum6875)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Publications-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=vjshqTUAAAAJ&hl=en)
 [![Email](https://img.shields.io/badge/Email-mhmasum6875@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mhmasum6875@gmail.com)
 
 </div>
@@ -50,7 +51,7 @@ More than 80 analytics across seven areas, each with example code and an explana
 - **Factors Influencing the Adoption of IoT for E-Learning in Higher Educational Institutes in Developing Countries.** *Frontiers in Psychology*, 2022. [DOI](https://doi.org/10.3389/fpsyg.2022.915596)
 - **Edge AI-Driven Wireless Vision Sensor Networks for Collaborative Robotic Perception.** INTRAC 2025, Springer. Accepted, first author.
 
-The full list, with the papers under review, is on my [portfolio](https://mh-masum6875.github.io/#publications).
+The full list is on [Google Scholar](https://scholar.google.com/citations?user=vjshqTUAAAAJ&hl=en), and the papers under review are on my [portfolio](https://mh-masum6875.github.io/#publications).
 
 ## Experience
 
