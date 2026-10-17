@@ -25,10 +25,10 @@ I build computer vision systems that run on live camera feeds, and I research ho
 
 ## Research
 
-| Project | What it does | Result |
+| Project | What it does | Approach |
 | --- | --- | --- |
-| [**LightYolo-SSO**](https://github.com/mh-masum6875/LightYolo-SSO) | An object detector for wireless sensor nodes. The architecture was found with Sperm Swarm Optimization instead of by shrinking an existing model. | **78%** fewer parameters than YOLOv7-tiny, a **2.9 MB** model, **99.57%** mAP@0.5 |
-| [**Adaptive LightYolo-SSO**](https://github.com/mh-masum6875/Adaptive-LightYolo-SSO) | The same detector with early exits, so easy inputs skip most of the network. | **64.7%** less compute at **99.55%** accuracy, with 98.6% of samples leaving at the first exit |
+| [**LightYolo-SSO**](https://github.com/mh-masum6875/LightYolo-SSO) | An object detector for wireless sensor nodes. The architecture was found with Sperm Swarm Optimization instead of by shrinking an existing model. | Architecture search that scores accuracy, FLOPs, size and speed together |
+| [**Adaptive LightYolo-SSO**](https://github.com/mh-masum6875/Adaptive-LightYolo-SSO) | The same detector with early exits, so easy inputs skip most of the network. | Confident samples leave early and skip most of the computation |
 
 ## Applied computer vision
 
