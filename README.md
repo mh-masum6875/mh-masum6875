@@ -21,7 +21,7 @@ I build computer vision systems that run on live camera feeds, and I research ho
 | **Research** | Fully funded Graduate Research Assistant at Universiti Malaya (MSc by research, thesis submitted). Focus: efficient detection for edge devices. |
 | **Publications** | First author of a review paper in **IEEE Sensors Journal** (2025). Four papers published, two accepted, three under review. |
 | **Recognition** | Best Undergraduate Research Award, Dean's Award, First Class Honours (CGPA 3.70 out of 4.00). |
-| **Teaching** | Computing teacher at Abedeen International School. Former English tutor at EF English Academy. |
+| **Teaching** | Former English tutor at EF English Academy. Teaching assistant at UTM. |
 
 ## Research
 
