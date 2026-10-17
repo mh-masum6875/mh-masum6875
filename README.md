@@ -48,7 +48,7 @@ AI Algorithm Engineer at **Graymatics Singapore** deploying real-time computer v
 
 | Project | What it does | Highlights |
 | --- | --- | --- |
-| [**WSN-YOLO** (LightYolo-SSO)](https://github.com/mh-masum6875/-LightYolo-SSO) | Ultra-lightweight YOLO for Wireless Sensor Networks, architecture found with Sperm Swarm Optimization | **78%** fewer parameters and **93.8%** smaller model than YOLOv7-tiny, with **99.57%** mAP@0.5 |
+| [**LightYolo-SSO** (WSN-YOLO)](https://github.com/mh-masum6875/LightYolo-SSO) | Ultra-lightweight YOLO for Wireless Sensor Networks, architecture found with Sperm Swarm Optimization | **78%** fewer parameters and **93.8%** smaller model than YOLOv7-tiny, with **99.57%** mAP@0.5 |
 | [**Adaptive LightYolo-SSO**](https://github.com/mh-masum6875/Adaptive-LightYolo-SSO) | Early-exit inference for energy-efficient anomaly detection on the IBRL sensor dataset | **64.7%** less compute at **99.55%** accuracy; 98.6% of samples exit at the first branch |
 
 ### 📱 Software & embedded
