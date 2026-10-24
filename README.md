@@ -66,6 +66,7 @@ The full list is on [Google Scholar](https://scholar.google.com/citations?user=v
 ## Other projects
 
 - [**CV Test Bench**](https://github.com/mh-masum6875/cv-test-bench): a web app for testing vision models on RTSP streams and video, with alert rules and zones. [Live demo](https://mh-masum6875.github.io/cv-test-bench/).
+- [**Vision Field Notes**](https://mh-masum6875.github.io/vision-field-notes/): my blog on practical computer vision and edge AI, with new articles every week.
 - [**MetaTr@cker**](https://github.com/mh-masum6875/MetaTr-cker): a free, ad-free Android fitness tracker (Java, Firebase).
 - [**Bluetooth Robot Controller**](https://github.com/mh-masum6875/BluetoothController): a Flutter app that drives an Arduino robot.
 - [**Online School Management System**](https://github.com/mh-masum6875/Online-School-Management-System): school records, attendance and results (Java, Spring MVC, MySQL).
