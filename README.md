@@ -19,16 +19,21 @@ I build computer vision systems that run on live camera feeds, and I research ho
 | --- | --- |
 | **Industry** | AI Algorithm Engineer at Graymatics, Singapore, since September 2023. Production computer vision on 300+ live IP camera streams, with 80+ different analytics. |
 | **Research** | Fully funded Graduate Research Assistant at Universiti Malaya (MSc by research, thesis submitted). Focus: efficient detection for edge devices. |
-| **Publications** | First author of a review paper in **IEEE Sensors Journal** (2025). Four papers published, two accepted, three under review. |
+| **Publications** | First author of a review paper in **IEEE Sensors Journal** (2025). Four papers published, two accepted, four under review. |
 | **Recognition** | Best Undergraduate Research Award, Dean's Award, First Class Honours (CGPA 3.70 out of 4.00). |
 | **Teaching** | Former English tutor at EF English Academy. Teaching assistant at UTM. |
 
 ## Research
 
-| Project | What it does | Approach |
+| Project | What it does | Where it stands |
 | --- | --- | --- |
-| [**LightYolo-SSO**](https://github.com/mh-masum6875/LightYolo-SSO) | An object detector for wireless sensor nodes. The architecture was found with Sperm Swarm Optimization instead of by shrinking an existing model. | Architecture search that scores accuracy, FLOPs, size and speed together |
-| [**Adaptive LightYolo-SSO**](https://github.com/mh-masum6875/Adaptive-LightYolo-SSO) | The same detector with early exits, so easy inputs skip most of the network. | Confident samples leave early and skip most of the computation |
+| [**WSN-YOLO**](https://github.com/mh-masum6875/LightYolo-SSO) | Fault detection and localisation for wireless sensor networks. The architecture comes out of an Enhanced Sperm Swarm Optimisation search rather than from shrinking an existing model. 0.33 M parameters, 0.67 GFLOPs, and 0.887 mAP@0.5 on the test split. | Submitted to *IEEE Sensors Journal*, 2026 |
+| [**Adaptive LightYolo-SSO**](https://github.com/mh-masum6875/Adaptive-LightYolo-SSO) | The same detector with early exits, so easy inputs leave the network early instead of running all of it. | In progress |
+
+Measured on a Raspberry Pi 4 with an INA219 on the supply rail, WSN-YOLO runs a frame in 67.5 ms
+against YOLOv7-tiny's 558.5 ms and uses a tenth of the energy, for about four points less
+mAP@0.5. The benchmark generator, search code, trained weights and ONNX export are all in the
+repository.
 
 ## Applied computer vision
 
@@ -50,6 +55,7 @@ More than 80 analytics across seven areas, each with example code and an explana
 - **Critical Review on Resource Scheduling in IaaS Clouds.** *The Journal of Engineering* (IET and Wiley), 2024. [DOI](https://doi.org/10.1049/tje2.12420)
 - **Factors Influencing the Adoption of IoT for E-Learning in Higher Educational Institutes in Developing Countries.** *Frontiers in Psychology*, 2022. [DOI](https://doi.org/10.3389/fpsyg.2022.915596)
 - **Edge AI-Driven Wireless Vision Sensor Networks for Collaborative Robotic Perception.** INTRAC 2025, Springer. Accepted, first author.
+- **WSN-YOLO: Enhanced Sperm Swarm Optimisation for Ultra-Lightweight Fault Detection and Localisation in Wireless Sensor Networks.** *IEEE Sensors Journal*, 2026. Submitted, first author. [Code](https://github.com/mh-masum6875/LightYolo-SSO)
 
 The full list is on [Google Scholar](https://scholar.google.com/citations?user=vjshqTUAAAAJ&hl=en), and the papers under review are on my [portfolio](https://mh-masum6875.github.io/#publications).
 
